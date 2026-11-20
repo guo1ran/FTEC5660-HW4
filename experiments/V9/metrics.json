@@ -1,0 +1,36 @@
+{
+  "variant": "V9",
+  "change": "+ missing-concept abstention only (production configuration)",
+  "chunks": 1115,
+  "table_score": 1.0,
+  "document_pass": 1.0,
+  "parse_score": 1.0,
+  "valid": 1.0,
+  "recall": 1.0,
+  "kept": 1.0,
+  "rejected": 1.0,
+  "accuracy": 1.0,
+  "points": {
+    "1.1": 8.0,
+    "1.2": 7.0,
+    "2.1": 5.0,
+    "2.2": 10.0,
+    "2.3": 15,
+    "3": 10.0,
+    "4": 20.0
+  },
+  "total": 75.0,
+  "retrieval_seconds": 0.326859415974468,
+  "seconds": 4.6140742499846965,
+  "generator_usage": {
+    "llm_calls": 46,
+    "llm_input_tokens": 61573,
+    "llm_output_tokens": 164,
+    "cost_usd": 0.009334349999999998
+  },
+  "api_errors": {},
+  "missed_retrieval_ids": [],
+  "wrong_answer_ids": [],
+  "document_problems": {},
+  "measurement_origin": "V7"
+}
